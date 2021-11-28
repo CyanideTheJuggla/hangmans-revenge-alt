@@ -40,9 +40,9 @@ SO that I can expand my vocabulary...
 
 ## WEBPAGE
 
-Click [here](https://cyanidethejuggla.github.io/hangmans-revenge/) to play Hangman's Revenge!
-![Screenshot of webpage](./assets/img/webpage.PNG)
+Click [here](https://cyanidethejuggla.github.io/hangmans-revenge-alt/) to play Hangman's Revenge!
 
 ## CONTRUBITIONS
 
 Made by Katelyn Bunker, Anna Dodd, Scott Howell and Tyler Schultz
+This is a final merge that went unused due to style differences. I don't like wasting my time, so I've deployed it separately.
