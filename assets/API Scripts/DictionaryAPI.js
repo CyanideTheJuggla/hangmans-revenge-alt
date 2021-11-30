@@ -88,7 +88,7 @@ var loadWords = function() {
 // Creates buttons for each word in wordList
 var showWordButtons = function() {
     // removes the words from previous rounds
-    var pastWordsDivEl = document.getElementById("past-words-div");
+    var pastWordsDivEl = document.getElementById("past-word-list");
     if (pastWordsDivEl) {
         pastWordsDivEl.remove();
     }
